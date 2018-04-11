@@ -47,3 +47,5 @@ plugins:
   - jemoji
 
 branch: master
+
+theme: jekyll-theme-minimal
